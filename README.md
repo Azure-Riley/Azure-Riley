@@ -18,9 +18,6 @@ I'm a 19 year old who likes these languages 🖳:
   <a href="https://www.w3schools.com/cs">
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="50" height="50"/>&nbsp;
   </a>
-  <a href="https://www.w3schools.com/cpp/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>&nbsp;
-  </a>
   <a href="https://docs.oracle.com/cd/E19253-01/817-5477/817-5477.pdf">
     <img src="https://smallimg.pngkey.com/png/small/479-4794953_assembly-x86-x86-icon.png" title="x86 Assembly Language" alt="x86 Assembly Language" width="50" height="50"/>&nbsp;
   </a>
