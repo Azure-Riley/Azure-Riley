@@ -13,7 +13,7 @@
 </div>
 
 ### Hey, Azure here :)
-I'm a 19 year old who likes these languages 🖳:
+I'm a 19 year old who's learning these languages 🖳:
 <div>
   <a href="https://www.w3schools.com/cs">
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="50" height="50"/>&nbsp;
