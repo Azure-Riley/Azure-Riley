@@ -18,8 +18,8 @@ I'm a 19 year old who's learning these languages 🖳:
   <a href="https://www.w3schools.com/cs">
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="50" height="50"/>&nbsp;
   </a>
-  <a href="https://docs.oracle.com/cd/E19253-01/817-5477/817-5477.pdf">
-    <img src="https://smallimg.pngkey.com/png/small/479-4794953_assembly-x86-x86-icon.png" title="x86 Assembly Language" alt="x86 Assembly Language" width="50" height="50"/>&nbsp;
+  <a href="https://vbrunell.github.io/docs/MIPS%20Programming%20Guide.pdf">
+    <img src="https://github.com/Azure-Riley/Azure-Riley/assets/124213550/cd74755a-ae07-4a29-928f-4211a7b5d92a" title="MIPS Assembly Language" alt="MIPS Assembly Language" width="50" height="50"/>&nbsp;
   </a>
 </div>
 
