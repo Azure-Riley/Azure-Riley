@@ -5,13 +5,6 @@
 </div>
 
 
-
-<div id="badges" align = "center">
-  <a href="https://www.youtube.com/channel/UCAJBLtE3teBdzL3EAYfvEYQ">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-</div>
-
 ### Hey, Azure here :)
 I'm a 19 year old who's learning these languages 🖳:
 <div>
